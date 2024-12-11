@@ -1,6 +1,6 @@
 # Hello all👋🏻
 ## I'm Dhanalakshmi👋😊
-<img align="right" width="300" height="200" src="https://github.com/user-attachments/assets/cc8b06a1-7e00-46d6-9e36-9283d053b3e8">
+<img align="right" width="300" height="180" src="web-development.gif">
 
 - I am currently pursuing a **B.Tech in Computer Science and Engineering** . 
 - I have a strong interest in becoming a **software developer**.
