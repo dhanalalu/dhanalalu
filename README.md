@@ -1,3 +1,5 @@
+![freepik-export-20241215181204RiXp](https://github.com/user-attachments/assets/b1f72962-d2d4-4e5a-86cf-d488f87be977)
+
 # Hello all👋🏻
 ## I'm Dhanalakshmi👋😊
 <img align="right" width="300" height="180" src="web-development.gif">
