@@ -1,4 +1,4 @@
-<img align="top" width ="700" height="200" src="https://github.com/user-attachments/assets/b1f72962-d2d4-4e5a-86cf-d488f87be977">
+<img align="top" width ="1050" height="400" src="https://github.com/user-attachments/assets/b1f72962-d2d4-4e5a-86cf-d488f87be977">
 
 # Hello all👋🏻
 ## I'm Dhanalakshmi👋😊
