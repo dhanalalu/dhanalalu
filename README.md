@@ -15,8 +15,8 @@
 **Programming Languages**:
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
  - <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
-  - <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  - <img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white"> <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
+  - <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  - <img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white"> <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"> <img src="https://img.icons8.com/?size=100&id=r5Y16PcDkoWI&format=png&color=000000" height="30" width="40">
 
 ## Projects 📚🗂️:
 - **Crime Information management system intergrated with php**
@@ -28,4 +28,10 @@
 ## Interests🚀
 - I'm eager to interact with real-world projects to expand my knowledge and gain hands-on experience.
   <br>
+## Github Stats🔗
+  ![dhanalalu stats](https://github-readme-stats.vercel.app/api?username=dhanalalu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+  ![dhanalalu read me stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanalalu&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) 
+  ![dhanalalu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhanalalu&theme=vue-dark&hide_border=false)
+  <br>
+  ## Github Graph📈
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanalalu&bg_color=322f31&color=1a7ebc&line=24a6c6&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph">
