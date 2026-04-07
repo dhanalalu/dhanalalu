@@ -4,8 +4,8 @@
 ## I'm Dhanalakshmi👋😊
 <img align="right" width="300" height="180" src="web-development.gif">
 
-- I am currently pursuing a **B.Tech in Computer Science and Engineering** . 
-- I have a strong interest in becoming a **software developer**.
+- I am completed  a **B.Tech in Computer Science and Engineering** . 
+- I have a strong interest in becoming a **software developer,Data Analyst**.
 - 📔Here's my : [protfolio](https://dhanalalu.github.io/dhanaport/)
 - how to Reach me:
 <a href="https://www.linkedin.com/in/dhanalakshmi1903?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/
